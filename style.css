@@ -40,7 +40,6 @@ body {
     max-width: 760px;
 }
 
-.profile-card,
 .section-card {
     background-color: #ffffff;
     border-radius: 16px;
@@ -154,4 +153,5 @@ body {
     .section-card (
         padding: 20px 16px 18px;
     )
+
 }
